@@ -1,0 +1,14 @@
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\bin\Debug\KM_Lab_7.exe.config
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\bin\Debug\KM_Lab_7.exe
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\bin\Debug\KM_Lab_7.pdb
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.csproj.AssemblyReference.cache
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.csproj.SuggestedBindingRedirects.cache
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.Form1.resources
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.Properties.Resources.resources
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.csproj.GenerateResource.cache
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.csproj.CoreCompileInputs.cache
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.exe
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.pdb
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\bin\Debug\Newtonsoft.Json.dll
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\bin\Debug\Newtonsoft.Json.xml
+D:\_UnityProjects\KM_Lab_7\KM_Lab_7\obj\Debug\KM_Lab_7.csproj.CopyComplete
